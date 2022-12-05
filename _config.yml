@@ -11,9 +11,9 @@ title                    : "Ahmed Chaudhry"
 title_separator          : "-"
 name                     : &name "Ahmed Chaudhry"
 description              : &description "personal description"
-url                      : "https://ahmedch92.github.io"
+url                      : "https://ahmedchaudhryecon.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ahmedch92/ahmedch92.github.io"
+repository               : "ahmedchaudhryecon/ahmedchaudhryecon.github.io"
 teaser                   :  
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
